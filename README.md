@@ -2,7 +2,7 @@
 
 # Android Free OTP App
 
-[FreeOTP](https://freeotp.github.io/) is a two-factor authentication application for systems
+[Android-Free-OTP] is a two-factor authentication application for systems
 utilizing one-time password protocols. Tokens can be added easily by scanning a QR code.
 
 FreeOTP implements open standards:

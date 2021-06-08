@@ -13,7 +13,7 @@ FreeOTP implements open standards:
 This means that no proprietary server-side component is necessary: use any server-side component
 that implements these standards.
 
-## Download FreeOTP for Android
+## Download AndroidFreeOTP for Android
 
 * [Google
 Play](https://play.google.com/store/apps/details?id=org.fedorahosted.freeotp)
